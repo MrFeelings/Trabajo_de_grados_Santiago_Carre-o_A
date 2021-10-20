@@ -1,0 +1,46 @@
+Bienvenido al proyecto de trabajo de grados acerca de la predicción del tiempo de uso en internet por medio de redes neuronales 
+artificialesrealizado por Santiago Carreño.
+esta carpeta contiene 3 documentos con los cuales te podrás guiar para revisar el proyecto:
+
+1) implementeacion.ipynb: El cual es el cuaderno de jupyter donde estará todo el código de la red neuronal.
+2) DATASET_INTERNET.xlsx: Este es un Excel con dos hojas (el conjunto de datos y el conjunto de datos seleccionados y limpiados).
+3) DICCIONARIO DE PREGUNTAS.pdf: documento en el cual te podrás guiar acerca de las preguntas seleccionadas de la encuesta
+
+Adicional a esto se encuentra una carpeta llamada información completa donde podrás encontrar todos los archivos relacionados
+a la base de datos recopilada del sitio londinense Ofcom.
+
+Ejecución
+
+La forma de ejecutar el programa es ingresando a cualquier entorno de desarrollo con jupyter instalado y abrir la carpeta donde
+se encuentra el programa, luego de esto se deberá ejecutar modulo por módulo de manera secuencial. cabe resaltar que el documento
+indica la manera de ejecutarse.
+
+Nota: 
+- Si se desea utilizar algún ambiente virtualizado como Google Coolabs, podrá ejecutar hasta la sección de resultados (no se podrá 
+utilizar tkinter).
+- proyecto realizado en Python v.3.8.8 64 - bit
+
+
+************************************************************************************************************************************ 
+
+Welcome to the graduate work project about predicting time of use on the internet through neural networks
+made by Santiago Carreño.
+This folder contains 3 documents with which you can guide yourself to review the project:
+
+1) implementeacion.ipynb: Which is the jupyter notebook where all the code of the neural network will be.
+2) DATASET_INTERNET.xlsx: This is an Excel with two sheets (the data set and the data set selected and cleaned).
+3) DICTIONARY OF QUESTIONS.pdf: document in which you can guide yourself about the questions selected from the survey
+
+In addition to this, there is a folder called complete information where you can find all the related files
+to the database compiled from the London site Ofcom.
+
+Execution
+
+The way to run the program is by entering any development environment with jupyter installed and opening the folder where
+the program is found, after this it must be executed module by module sequentially. it should be noted that the document
+indicates the way to run.
+
+Note:
+- If you want to use a virtualized environment such as Google Coolabs, you can run to the results section (you will not be able to
+use tkinter).
+- project made in Python v.3.8.8 64 - bit
